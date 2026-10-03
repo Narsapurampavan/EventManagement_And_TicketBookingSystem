@@ -612,7 +612,7 @@ This project helps demonstrate:
 
 # 👨‍💻 Author
 
-**Manish Mamidipally**
+**Narsapuram Pavan**
 
 Java Developer | Core Java | JDBC | MySQL | Spring
 
